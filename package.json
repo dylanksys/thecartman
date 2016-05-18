@@ -1,0 +1,12 @@
+{
+  "name": "buffcartman",
+  "description": "cartman cuts after a long bulking session",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/thecartman"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
